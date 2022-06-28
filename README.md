@@ -1,0 +1,14 @@
+- ls (List)
+- pwd (Print Working Directory)
+- cd (Change Directory)
+- mkdir (Make Directory)
+- touch
+- &&
+- cp (Copy)
+- mv (Move)
+- rm (Remove)
+- cat (Catnate)
+- >
+- >>
+- vi
+
