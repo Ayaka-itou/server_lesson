@@ -8,7 +8,6 @@
 - mv (Move)
 - rm (Remove)
 - cat (Catnate)
-- >
-- >>
+- \>
+- \>\>
 - vi
-
