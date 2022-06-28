@@ -1,0 +1,108 @@
+    1  ls -a
+    2  cd server_lesson
+    3  cd /root
+    4  cd server_lesson
+    5  ls -a
+    6  git status
+    7  git add .
+    8  git status
+    9  git commit -m "first commit"
+   10  git status
+   11  git config --global user.name "Ayaka-itou"
+   12  git commit -m "first commit"
+   13  ls -a
+   14  git config --global user.email "ayahana820@gmail.com"
+   15  git config --global user.name "Ayaka-itou"
+   16  git commit -m "first commit"
+   17  git branch
+   18  git push origin master
+   19  git remote add origin https://github.com/Ayaka-itou/server_lesson.git
+   20  git push origin master
+   21  mkdir -p linux_practice1/public
+   22  touch public/index.php
+   23  ls
+   24  cd /linux_practice1
+   25  cd /home
+   26  ls
+   27  cd/ server_lesson
+   28  cd /root
+   29  cd /server_lesson
+   30  ls
+   31  cd /server_lesson
+   32  cd server_lesson
+   33  cd linux_practice1
+   34  ls
+   35  touch public/index.php
+   36  ls public
+   37  cd public
+   38  ls
+   39  cp index.php index_bk.php
+   40  ls
+   41  cd linux_practice1
+   42  cd /linux_practice1
+   43  cd /server_lesson
+   44  cd /root
+   45  cd server_lesson
+   46  cd linux_practice1
+   47  ls
+   48  cp -r public tmp
+   49  ls
+   50  ls tmp
+   51  rm tmp/index_bk.php
+   52  ls tmp
+   53  ls public
+   54  ls tmp
+   55  rm tmp/index_bk.php
+   56  ls tmp
+   57  cd ..
+   58  touch server_lesson/README.md
+   59  cd..
+   60  cd ..
+   61  cd server_lesson
+   62  touch README.md
+   63  ls
+   64  ls linux_practice1
+   65  vi README.md
+   66  vi README.md
+   67  git branch
+   68  git status
+   69  git add .
+   70  git status
+   71  git commit -m '練習問題１'
+   72  git status
+   73  mkdir -p linux_practice2/documents
+   74  ls
+   75  ls linux_practice2
+   76  cd linux_practice2
+   77  ls
+   78  cd documents
+   79  touch gizumo{01..50}.md
+   80  ls
+   81  cd ..
+   82  mkdir trash
+   83  ls
+   84  cd trash
+   85  cd ..
+   86  mv documents/gizumo{20..40}.md trash
+   87  ls trash
+   88  mkdir .gitignore
+   89  ls
+   90  ls
+   91  ls -a
+   92  vi .gitignore
+   93  rm -r .gitignore
+   94  ls -a
+   95  touch .gitignore
+   96  ls -a
+   97  vi gitignore
+   98  vi gitignore
+   99  pwd
+  100  cd /
+  101  cd linux_practice2
+  102  cd /root
+  103  cd linux_practice2
+  104  cd server_lesson
+  105  ls
+  106  cd /
+  107  cd root/server_lesson/linux_practice2
+  108  history 300 > exec_command.log
